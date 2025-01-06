@@ -1,8 +1,7 @@
-# About Me
+# About Me 
+👋 A dedicated individual, skilled in AWS, DevOps, and Python, looking for a reputed organization to start off my corporate journey. 
 
-A dedicated individual, skilled in AWS and Azure, looking for a reputed organization to start off my corporate journey.
-
-## Education
+## 🎓 Education
 
 ### 🎓 B.TECH | MECHANICAL | 2018-2022 | 75%
 **Aditya College Of Engineering And Technology**
