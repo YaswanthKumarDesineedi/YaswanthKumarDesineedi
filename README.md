@@ -21,6 +21,14 @@
 
 ## 💻 Projects
 
+### Three-Tier Web Application with Auto-Scaling and Security
+
+- **Web Server:** Displays the website to users and handles user interactions, like showing product pages or allowing sign-ups.
+- **Application Server:** Manages business logic and processes user actions, such as checking inventory or updating account details.
+- **Database Server:** Stores all application data using databases like MySQL or PostgreSQL.
+- **Three-Tier Architecture:** Ensures high availability, scalability, and reliability by distributing load, monitoring instance health, and scaling resources dynamically.
+- **GitHub Link:** [Project Information](https://github.com/YaswanthKumarDesineedi/aws_3tier_architecture.git)
+
 ### PHP Website with RDS MySQL Database
 
 - **Deploying a PHP Website:** Received data from users and stored it in RDS MySQL Database.
