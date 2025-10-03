@@ -1,17 +1,17 @@
 # About Me 
-👋 A dedicated individual, skilled in AWS, DevOps, and Python, looking for a reputed organization to grow and contribute while expanding expertise in cloud and DevSecOps practices. 
+👋 A highly motivated **DevSecOps and Cloud Engineer** with hands-on experience in architecting, automating, and managing secure and scalable infrastructures across **AWS, Azure, and GCP**. Skilled in containerization, orchestration, and real-time monitoring to ensure reliability and performance of modern applications. Proficient in implementing **CI/CD pipelines, Infrastructure as Code, and cloud security best practices**, with a strong ability to optimize deployment processes. Actively looking forward to better opportunities in reputed organizations where I can drive innovation and deliver impactful cloud and DevOps solutions.  
 
 ## 💼 Experience
 
-### 🚀 DevSecOps Engineer | ICICI Bank (via Primus Global Technologies & Wipro)  
+### 🚀 DevSecOps Engineer  
 **June 2025 – Present**
 
 - Managing secure and scalable cloud infrastructure on **Azure** and **Google Cloud (GCP)**.  
 - Proficient in containerization using **Docker** and **Podman**.  
-- Orchestrating workloads using **Kubernetes clusters** for scalability and availability.  
-- Configuring networking resources like **VNets, VPCs, and route tables** along with Infrastructure as a Service (**IaaS**) management.  
-- Implementing **Dynatrace** for real-time application monitoring, enabling quick identification and resolution of issues to ensure performance and uptime.  
-- Extensive experience in **AWS** resources including **EC2, IAM, S3, Lambda, Auto Scaling, and Load Balancing**.  
+- Orchestrating workloads using **Kubernetes clusters** for scalability and high availability.  
+- Configuring networking resources like **VNets, VPCs, and route tables**, alongside Infrastructure as a Service (**IaaS**) management.  
+- Implementing **Dynatrace** for real-time application monitoring, enabling quick issue detection and faster resolution.  
+- Hands-on experience with **AWS services** including **EC2, IAM, S3, Lambda, Auto Scaling, and Load Balancing**.  
 
 ## 🎓 Education
 
@@ -44,7 +44,7 @@
 ### PHP Website with RDS MySQL Database
 
 - **Deploying a PHP Website:** Received data from users and stored it in RDS MySQL Database.  
-- **Scalable Architecture:** Architecture was scalable due to the Auto Scaling of servers and highly available.  
+- **Scalable Architecture:** Architecture was scalable due to Auto Scaling of servers and highly available.  
 - **Secured Data:** Data stored in RDS was highly secured, encrypted, and managed failover. Only accessible by an authorized database admin.  
 
 ### Git Workflow Architecture with Jenkins
