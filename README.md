@@ -37,17 +37,17 @@ DBMS
 
 ## Internships
 
-| Role                  | Organization                    | Location   | Dates                  |
-|-----------------------|--------------------------------|------------|------------------------|
-| Cloud Engineer Intern  | Intellipaat Software Solutions | Bengaluru  | Sep 2023 – Sep 2024    |
+| Role                  | Organization                    | Location   | Dates                    |
+|-----------------------|--------------------------------|------------|--------------------------|
+| Cloud Engineer Intern  | Intellipaat Software Solutions | Bengaluru  | Sep 2023 – Sep 2024      |
 
 ---
 
 ## Experience
 
-| Role                | Organization                                 | Location        | Dates                |
-|---------------------|----------------------------------------------|-----------------|----------------------|
-| DEVSECOPS Engineer  | ICICI Bank (via Primus Global Technologies & Wipro) | Hyderabad, TS | Jun 2025 – Present   |
+| Role                | Organization                                 | Location        | Dates                  |
+|---------------------|----------------------------------------------|-----------------|------------------------|
+| DEVSECOPS Engineer   | ICICI Bank (via Primus Global Technologies & Wipro) | Hyderabad, TS | Jun 2025 – Present     |
 
 - Managed secure and scalable cloud infrastructure on Azure and GCP  
 - Containerization using Docker and Podman  
@@ -96,3 +96,9 @@ DBMS
 - Advanced Certification in Cloud Computing & DevOps by Intellipaat Software Solutions  
 - Certified Introduction to Programming using Python by Microsoft Technology Associate
 
+---
+
+## Contact
+
+- 📧 Email: [yaswanthkumar21@gmail.com](mailto:yaswanthkumar21@gmail.com)  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yaswanthkumard21)  
