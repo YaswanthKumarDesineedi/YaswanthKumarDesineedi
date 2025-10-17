@@ -1,10 +1,10 @@
-☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
+---
 
 ## About Me
 
-A highly motivated **DevSecOps and Cloud Engineer** specializing in secure, scalable, and automated cloud infrastructures on **AWS, Azure, and GCP**. Passionate about building resilient systems with containerization, orchestration, and infrastructure-as-code—delivering optimized continuous integration and deployment pipelines for mission-critical applications.
+A highly motivated **DevSecOps and Cloud Engineer** with hands-on experience architecting, automating, and managing secure and scalable infrastructures on **AWS, Azure, and GCP**. Skilled in containerization, orchestration, and real-time monitoring to ensure modern applications are reliable and performant. Proficient in **CI/CD pipelines, Infrastructure as Code, and cloud security best practices**, with a strong focus on optimizing deployments. Passionate about driving innovation and delivering impactful cloud and DevOps solutions in leading organizations.
 
-☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
+---
 
 ## Key Skills and Tools
 
@@ -33,7 +33,7 @@ Other:
 ![Networking](https://img.shields.io/badge/Networking-008681?logo=gnometerminal&logoColor=white&style=flat-square)
 DBMS
 
-⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
+---
 
 ## Internships
 
@@ -41,7 +41,7 @@ DBMS
 |-----------------------|--------------------------------|------------|--------------------------|
 | Cloud Engineer Intern  | Intellipaat Software Solutions | Bengaluru  | Sep 2023 – Sep 2024      |
 
-⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
+---
 
 ## Experience
 
@@ -56,7 +56,7 @@ DBMS
 - Real-time monitoring with Dynatrace  
 - AWS expertise: EC2, IAM, S3, Lambda, Auto Scaling, Load Balancing  
 
-☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
+---
 
 ## Projects
 
@@ -81,7 +81,7 @@ DBMS
 - Configured virtual networks, load balancers, traffic managers  
 - Deployment across Azure regions for global accessibility  
 
-⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
+---
 
 ## Education
 
@@ -89,18 +89,16 @@ DBMS
 |---------------------------|----------------------------------------|-------|----------------------|
 | B.TECH in Mechanical Engg  | Aditya College Of Engineering & Technology | 75%   | Jan 2018 – Jan 2022  |
 
-⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
+---
 
 ## Certifications
 
 - Advanced Certification in Cloud Computing & DevOps by Intellipaat Software Solutions  
 - Certified Introduction to Programming using Python by Microsoft Technology Associate
 
-☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
+---
 
 ## Contact
 
 - 📧 Email: [yaswanthkumar21@gmail.com](mailto:yaswanthkumar21@gmail.com)  
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yaswanthkumard21)  
-
-☁️ DevOps + Cloud Automation = 🚀 Building resilient, scalable futures ☁️
