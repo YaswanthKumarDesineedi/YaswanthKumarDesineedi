@@ -3,8 +3,6 @@
 # YASWANTH KUMAR 
 ### DevSecOps & Cloud Engineer
 
-[+91-9949342177](tel:+919949342177) | [yaswanthkumar21@gmail.com](mailto:yaswanthkumar21@gmail.com) | [LinkedIn](https://linkedin.com/in/yaswanthkumard21) | [GitHub](https://github.com/YaswanthKumarDesineedi)
-
 </div>
 
 ---
@@ -79,3 +77,11 @@ Highly motivated **DevSecOps & Cloud Engineer** with hands-on experience archite
 - **B.Tech in Mechanical Engineering** | Aditya College Of Engineering & Technology (75%) | 2018 – 2022
 - **Advanced Certification in Cloud Computing & DevOps** – Intellipaat Software Solutions
 - **Microsoft Technology Associate** – Introduction to Programming using Python
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** [yaswanthkumar21@gmail.com](mailto:yaswanthkumar21@gmail.com)
+- 🔗 **LinkedIn:** [Yaswanth Kumar](https://linkedin.com/in/yaswanthkumard21)
+- 📞 **Phone:** [+91-9949342177](tel:+919949342177)
