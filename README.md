@@ -82,6 +82,6 @@ Highly motivated **DevSecOps & Cloud Engineer** with hands-on experience archite
 
 ## 📬 Contact Me
 
-- 📧 **Email:** [yaswanthkumar21@gmail.com](mailto:yaswanthkumar21@gmail.com)
+- 📧 **Email:** [yaswanthkumard21@gmail.com](mailto:yaswanthkumard21@gmail.com)
 - 🔗 **LinkedIn:** [Yaswanth Kumar](https://linkedin.com/in/yaswanthkumard21)
-- 📞 **Phone:** [+91-9949342177](tel:+919949342177)
+- 💻 **GitHub:** [YaswanthKumarDesineedi](https://github.com/YaswanthKumarDesineedi)
